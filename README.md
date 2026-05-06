@@ -21,5 +21,4 @@ An interactive web application that analyzes password strength using:
 - Chart.js
 
 ## 📌 Author
-Angelo George
-Ahmed Mostafa 
+Angelo George /n Ahmed Mostafa 
